@@ -1,4 +1,4 @@
-
+import GithubLogo from './Components/GithubLogo'
 import Navbar from './Components/Navbar'
 
 function App() {

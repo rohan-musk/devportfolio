@@ -3,7 +3,10 @@
     padding:70px 50px;
     justify-content: space-between;
 }
-h3{
+li div{
+    display:inline-flex;
+}
+h2{
     padding:0 20px;
 }
 ul{
@@ -24,7 +27,7 @@ a{
         padding:40px 50px;
         flex-direction: column;
     }
-    h3,ul{
+    h2,ul{
         text-align: center;
     }
 }
