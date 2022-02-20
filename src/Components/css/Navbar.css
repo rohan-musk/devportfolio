@@ -1,0 +1,30 @@
+.Navbar{
+    display: flex;
+    padding:70px 50px;
+    justify-content: space-between;
+}
+h3{
+    padding:0 20px;
+}
+ul{
+    padding:0 20px;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+
+}
+@media screen and (max-width:600px){
+    .Navbar{
+        padding:40px 50px;
+        flex-direction: column;
+    }
+    h3,ul{
+        text-align: center;
+    }
+}
