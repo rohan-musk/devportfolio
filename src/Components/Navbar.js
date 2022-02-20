@@ -6,7 +6,7 @@ import TwitterLogo from './TwitterLogo'
 const Navbar = () => {
     return (
         <div class="Navbar">
-            <h2>Rohan Musk</h2>
+            <h1>Rohan Musk</h1>
             <ul>
                 <li><a href="https://github.com/rohan-musk" target="_blank"><GithubLogo /></a></li>
                 <li><a href="https://www.instagram.com/rohanmusk/" target="_blank"><InstagramLogo /></a></li>
