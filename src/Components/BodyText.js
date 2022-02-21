@@ -15,6 +15,8 @@ const BodyText = () => {
                         ' a designer 🧑‍🎨',
                         1000,
                         ' an artist 🖌️',
+                        1000,
+                        ' an engineer 👷',
                         1000
                     ]}
                 />

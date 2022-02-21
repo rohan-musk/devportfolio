@@ -1,0 +1,21 @@
+.projects{
+    height: 100vh;    
+}
+.projects h1{
+    padding:  50px 0;
+    font-size: 3em;
+    text-align: center;
+}
+.projects p{
+    font-weight: 700;
+    height: auto;
+    width: 10000px;
+    margin: 0;
+    padding: 0;
+    color: #2c2c2c;
+    font-size:5em;
+}
+.divp{
+    transform: translateX(-1000px);
+    height: auto;
+}

@@ -1,3 +1,7 @@
+html,body{
+    overflow-x: hidden;
+    overscroll-behavior-x: none;
+}
 .body{
     justify-items: center;
     align-items: center;
