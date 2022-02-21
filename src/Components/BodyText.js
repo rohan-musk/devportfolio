@@ -4,7 +4,7 @@ import Typical from 'react-typical'
 const BodyText = () => {
     return (
         <div className="bodydiv">
-            <h1 className="bodyh1">Digital developer from India turning ideas into reality</h1>
+            <h1 className="bodyh1">Developer from India turning ideas into reality</h1>
             <p>I am
                 <Typical
                     loop={Infinity}

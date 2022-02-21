@@ -23,6 +23,10 @@ p{
 img{
     width:40%;
 }
+.canv{
+    width:400px;
+    height:400px;
+} 
 @media screen and (max-width:1350px){
     .bodyh1{
         font-size: 3em;
@@ -49,6 +53,10 @@ img{
     }
 }
 @media screen and (max-width:550px){
+    .canv{
+        width:350px;
+        height:350px;
+    }
     .bodyh1{
         font-size: 2em;
     }
