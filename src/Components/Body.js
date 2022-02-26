@@ -1,5 +1,4 @@
 import React, { Suspense } from 'react'
-import img from '../Images/3js.png'
 import './css/Body.css'
 import BodyText from './BodyText'
 import MeDesk from './MeDesk'
@@ -10,7 +9,6 @@ const Body = () => {
 
     return (
         <div className="body">
-            {/* <img src={img} /> */}
             <div className="canv">
                 <Canvas className="canvas" camera={{ fov: 40, position: [8, 0, -8] }}>
                     <OrbitControls enableZoom={false} />
